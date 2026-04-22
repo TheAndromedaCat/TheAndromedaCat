@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi there! I'm TheAndromedaCat!
+![TheAndromedaCat's Stats](https://github-readme-stats.vercel.app/api?username=TheAndromedaCat&theme=radical&show_icons=true&hide_border=false&count_private=true)
+![TheAndromedaCat's Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheAndromedaCat&theme=radical&hide_border=false)
 <!--
 **TheAndromedaCat/TheAndromedaCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
