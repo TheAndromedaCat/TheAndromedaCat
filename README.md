@@ -3,7 +3,7 @@
 
 ![TheAndromedaCat's Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheAndromedaCat&theme=radical&hide_border=false)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAndromedaCat&theme=radical&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](./profile/stats.svg)
 <!--
 **TheAndromedaCat/TheAndromedaCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
