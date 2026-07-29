@@ -1,10 +1,9 @@
+<a href="https://github.com/TheAndromedaCat/github-readme-stats-fast">
+  <img align="center" src="https://github-stats.andromedacat.net/api/?username=TheAndromedaCat&show_icons=true&theme=synthwave&hide=ra-xemu,rcheevos,ra-xemu-website,Activities" />
+</a>
 <a href="https://github.com/TheAndromedaCat">
   <img align="center" src="https://github-stats.andromedacat.net/api/streak?username=TheAndromedaCat&theme=synthwave" />
 </a>
-<br />
-<a href="https://github.com/TheAndromedaCat/github-readme-stats-fast">
-  <img align="center" src="https://github-stats.andromedacat.net/api/?username=TheAndromedaCat&theme=synthwave&hide=ra-xemu,rcheevos,ra-xemu-website,Activities" />
-</a>
 <a href="https://github.com/TheAndromedaCat">
-  <img align="center" src="https://github-stats.andromedacat.net/api/top-langs/?username=TheAndromedaCat&theme=synthwave&card_width=449&langs_count=8&exclude_repo=ra-xemu,rcheevos,ra-xemu-website,Activities" />
+  <img align="center" src="https://github-stats.andromedacat.net/api/top-langs/?username=TheAndromedaCat&layout=compact&theme=synthwave&exclude_repo=ra-xemu,rcheevos,ra-xemu-website,Activities" />
 </a>
